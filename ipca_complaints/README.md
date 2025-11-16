@@ -2,11 +2,11 @@
 
 ## Summary
 
-This directory contains **7 comprehensive, fully-documented IPCA complaints** covering 58+ instances of police misconduct spanning 2021-2025.
+This directory contains **8 comprehensive, fully-documented IPCA complaints** covering 59+ instances of police misconduct spanning 2021-2025.
 
 ## Complaints Prepared and Ready to File
 
-### Priority 1 (File Immediately)
+### Priority 1 (File This Week)
 
 1. **Complaint #1** - 2021 First Arrest: Torture and Rights Violations
    `complaint_01_2021_arrest_torture_rights_violations.md`
@@ -16,27 +16,37 @@ This directory contains **7 comprehensive, fully-documented IPCA complaints** co
    - Denial of chosen counsel
    - Breach of solicitor-client privilege
 
-2. **Complaint #3** - Constable James Peck: Multiple Perjury
+2. **Complaint #8** - False Imprisonment on Remand (37 Days) **NEW**
+   `complaint_08_false_imprisonment_on_remand.md`
+   - 37 days imprisoned on charges proven completely false
+   - Concurrent torture (abortion lie during imprisonment)
+   - Missing newborn son's birth (September 14, 2021)
+   - Based on Constable Peck's proven perjury
+   - Immigration attacked during imprisonment (Detective Bell)
+   - **Compensation estimate: $250,000-$500,000**
+
+3. **Complaint #3** - Constable James Peck: Multiple Perjury
    `complaint_03_constable_james_peck_perjury.md`
    - Audio-proven perjury (two recordings)
    - Changed story when caught
+   - **Directly caused false imprisonment**
    - Criminal charges recommended
 
-3. **Complaint #5** - Organised Crime Unit Intimidation
+4. **Complaint #7** - Detective Jocelyn Bell: Immigration Sabotage
+   `complaint_07_detective_bell_immigration_sabotage.md`
+   - Attempted deportation **during imprisonment**
+   - "May not yet have been diagnosed" smoking gun admission
+   - Requires Immigration NZ notification
+
+5. **Complaint #5** - Organised Crime Unit Intimidation
    `complaint_05_organised_crime_unit_intimidation.md`
    - Retaliation for judicial complaint
    - Wife 8 months pregnant
    - Pattern of coordination with judiciary
 
-4. **Complaint #7** - Detective Jocelyn Bell: Immigration Sabotage
-   `complaint_07_detective_bell_immigration_sabotage.md`
-   - Attempted deportation based on admittedly unproven claims
-   - "May not yet have been diagnosed" smoking gun admission
-   - Requires Immigration NZ notification
-
 ### Priority 2 (File Within 2 Weeks)
 
-5. **Complaint #2** - Officer Sarah Perano: Multiple Violations
+6. **Complaint #2** - Officer Sarah Perano: Multiple Violations
    `complaint_02_officer_sarah_prorano_arrest_misconduct.md`
    - **NOW INCLUDES** January 10, 2022 audio transcript evidence
    - 13 separate violations documented
@@ -44,7 +54,7 @@ This directory contains **7 comprehensive, fully-documented IPCA complaints** co
    - Public character assassination
    - Agent provocateur conduct
 
-6. **Complaint #4** - Christchurch Police: Destruction of Complaints
+7. **Complaint #4** - Christchurch Police: Destruction of Complaints
    `complaint_04_christchurch_police_destruction_of_complaints.md`
    - Deleted perjury complaint
    - Deleted blackmail complaint
@@ -52,7 +62,7 @@ This directory contains **7 comprehensive, fully-documented IPCA complaints** co
 
 ### Priority 3 (File Within 1 Month)
 
-7. **Complaint #6** - Airport Harassment
+8. **Complaint #6** - Airport Harassment
    `complaint_06_airport_harassment.md`
    - Harassment while traveling to see son
    - Pattern of targeting
@@ -89,14 +99,15 @@ This comprehensive guide includes:
 
 ## Total Documented Violations
 
-**58+ separate instances** including:
+**59+ separate instances** including:
 
 ### By Category
 - **Torture:** 5 instances (2021 arrest)
-- **Perjury:** 4 instances (Constable Peck)
+- **False Imprisonment:** 1 instance (37 days on remand based on proven lies)
+- **Perjury:** 4 instances (Constable Peck - directly caused false imprisonment)
 - **Harassment:** 15+ instances (Sarah Perano, airport, etc.)
 - **Obstruction of Justice:** 3+ instances (complaint deletion, retaliation)
-- **Immigration Abuse:** 1 major instance (Detective Bell)
+- **Immigration Abuse:** 1 major instance (Detective Bell - during imprisonment)
 - **Child Endangerment:** Multiple failures to investigate
 - **Malicious Prosecution:** 2 trials, complete acquittals
 

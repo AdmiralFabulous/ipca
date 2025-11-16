@@ -2,7 +2,7 @@
 
 **Complainant:** [Your details]
 **Date Compiled:** November 16, 2025
-**Total Documented Violations:** 58+ separate instances of police misconduct
+**Total Documented Violations:** 59+ separate instances of police misconduct
 
 ---
 
@@ -11,6 +11,7 @@
 This document provides an index of all prepared IPCA complaints and guidance for filing. The complaints document **systematic police misconduct spanning 2021-2025**, including:
 
 - Torture and human rights violations
+- **False imprisonment on remand (37 days)**
 - Perjury by police officers
 - Destruction of official records
 - Retaliatory harassment
@@ -203,11 +204,57 @@ This document provides an index of all prepared IPCA complaints and guidance for
 
 ---
 
+### COMPLAINT #8: FALSE IMPRISONMENT ON REMAND (37 DAYS)
+**File:** `complaint_08_false_imprisonment_on_remand.md`
+
+**Summary:** False imprisonment for approximately 37 days on charges proven completely false:
+- Imprisoned on remand awaiting trial
+- **All charges resulted in complete acquittal** (NOT GUILTY)
+- Based on proven perjury (Constable James Peck)
+- **Concurrent with torture** (abortion lie - believed Elliott was dead during imprisonment)
+- Missing newborn son's birth (September 14, 2021)
+- Immigration attacked during imprisonment (Detective Bell's letter May 13, 2021)
+- Lost irreplaceable bonding time with infant
+
+**Key Evidence:**
+- Remand/detention records showing 37-day imprisonment
+- Wellington trial verdict (NOT GUILTY x7)
+- Christchurch trial verdict (NOT GUILTY x2, 7-minute deliberation)
+- Constable Peck's proven perjury (audio recordings)
+- Timeline showing imprisonment during abortion lie period
+- Elliott's birth certificate (September 14, 2021)
+- Detective Bell's May 13, 2021 letter (during imprisonment)
+
+**Compensation Estimate:** $250,000-$500,000 (enhanced for concurrent torture and lost bonding)
+
+**Urgency:** EXTREME - False imprisonment + concurrent torture unprecedented
+**Criminal Charges Recommended:**
+- Constable Peck: Perjury causing false imprisonment
+- Any officers: Fabricating evidence leading to imprisonment
+- Detective Bell: Immigration sabotage during imprisonment
+
+**Legal Precedents:**
+- David Dougherty: 3 years = $868,000 ($790/day)
+- Aaron Farmer: 2 years = $350,000 ($479/day)
+- Your case: 37 days BUT with concurrent torture, perjury, missing son's birth = $250,000-$500,000
+
+**Why This Case Exceeds Precedents:**
+1. **Concurrent torture** during imprisonment (abortion lie)
+2. **Based on proven perjury** (audio evidence)
+3. **Missing newborn son's birth** (irreplaceable)
+4. **Immigration attack during imprisonment** (Detective Bell)
+5. **7-minute jury deliberation** (allegations obviously false)
+6. **Systematic pattern** (59 total violations)
+
+**Status:** ✓ READY TO FILE
+
+---
+
 ## ADDITIONAL COMPLAINTS TO CONSIDER FILING
 
-Based on the comprehensive list of 58+ documented violations, here are additional complaints that could be prepared:
+Based on the comprehensive list of 59+ documented violations, here are additional complaints that could be prepared:
 
-### COMPLAINT #8: SYSTEMATIC FAILURE TO INVESTIGATE CHILD WELFARE CONCERNS
+### COMPLAINT #9: SYSTEMATIC FAILURE TO INVESTIGATE CHILD WELFARE CONCERNS
 **Priority:** HIGH
 
 **Summary:**
@@ -225,7 +272,7 @@ Based on the comprehensive list of 58+ documented violations, here are additiona
 
 ---
 
-### COMPLAINT #9: MALICIOUS PROSECUTION - WELLINGTON CHARGES
+### COMPLAINT #10: MALICIOUS PROSECUTION - WELLINGTON CHARGES
 **Priority:** MEDIUM
 
 **Summary:**
@@ -244,7 +291,7 @@ Based on the comprehensive list of 58+ documented violations, here are additiona
 
 ---
 
-### COMPLAINT #10: MALICIOUS PROSECUTION - CHRISTCHURCH CHARGES
+### COMPLAINT #11: MALICIOUS PROSECUTION - CHRISTCHURCH CHARGES
 **Priority:** MEDIUM
 
 **Summary:**
@@ -262,7 +309,7 @@ Based on the comprehensive list of 58+ documented violations, here are additiona
 
 ---
 
-### COMPLAINT #11: JUDICIAL REFERRAL WEAPONIZATION (SEPTEMBER 6, 2024)
+### COMPLAINT #12: JUDICIAL REFERRAL WEAPONIZATION (SEPTEMBER 6, 2024)
 **Priority:** MEDIUM
 
 **Summary:**
@@ -280,7 +327,7 @@ Based on the comprehensive list of 58+ documented violations, here are additiona
 
 ---
 
-### COMPLAINT #12: RIMUTAKA PRISON - DENIAL OF LAWYER ACCESS
+### COMPLAINT #13: RIMUTAKA PRISON - DENIAL OF LAWYER ACCESS
 **Priority:** LOW-MEDIUM
 
 **Summary:**
@@ -297,7 +344,7 @@ Based on the comprehensive list of 58+ documented violations, here are additiona
 
 ---
 
-### COMPLAINT #13: EVIDENCE SUPPRESSION
+### COMPLAINT #14: EVIDENCE SUPPRESSION
 **Priority:** MEDIUM
 
 **Summary:**
@@ -317,20 +364,20 @@ Based on the comprehensive list of 58+ documented violations, here are additiona
 
 ### RECOMMENDED FILING ORDER (Priority Sequence)
 
-**IMMEDIATE PRIORITY (File First):**
-1. **Complaint #1:** Torture and Rights Violations (most serious)
-2. **Complaint #3:** Constable Peck Perjury (clear criminal conduct with audio proof)
-3. **Complaint #5:** Organised Crime Unit Intimidation (ongoing retaliation pattern)
-4. **Complaint #7:** Detective Bell Immigration Sabotage (attempted deportation based on lies)
+**IMMEDIATE PRIORITY (File This Week):**
+1. **Complaint #1:** Torture and Rights Violations (153-day abortion lie + imprisonment torture)
+2. **Complaint #8:** False Imprisonment on Remand (37 days based on proven lies + concurrent torture)
+3. **Complaint #3:** Constable Peck Perjury (caused false imprisonment, audio-proven)
+4. **Complaint #7:** Detective Bell Immigration Sabotage (attempted deportation during imprisonment)
+5. **Complaint #5:** Organised Crime Unit Intimidation (ongoing retaliation pattern)
 
 **SECOND WAVE (File Within 2 Weeks):**
-5. **Complaint #2:** Officer Sarah Perano (add transcript first)
-6. **Complaint #4:** Destruction of Complaints (ongoing obstruction)
-7. **Complaint #8:** Child Welfare Failures (if preparing this one)
+6. **Complaint #2:** Officer Sarah Perano (13 violations with audio evidence)
+7. **Complaint #4:** Destruction of Complaints (ongoing obstruction)
 
 **THIRD WAVE (File Within 1 Month):**
 8. **Complaint #6:** Airport Harassment
-9-13. Additional complaints as prepared
+9-14. Additional complaints as prepared (child welfare, malicious prosecution, etc.)
 
 ### WHY THIS ORDER?
 
@@ -752,9 +799,9 @@ You have been silenced for too long. These complaints are your voice.
 ---
 
 **Document Prepared:** November 16, 2025
-**Total Complaints Ready to File:** 7 detailed, comprehensive complaints
-**Additional Complaints Available:** 5+ can be prepared as needed
-**Total Documented Violations:** 58+
+**Total Complaints Ready to File:** 8 detailed, comprehensive complaints
+**Additional Complaints Available:** 6+ can be prepared as needed
+**Total Documented Violations:** 59+
 **Evidence Files:** Extensive audio, documentary, and testimonial evidence available
 
 ---
