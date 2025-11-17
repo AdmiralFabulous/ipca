@@ -29,7 +29,6 @@ Police filed 2 protection order breach charges for **accidental thumbs-up emojis
 - Complete acquittal
 - Trivial nature of alleged breach
 
-## COMPENSATION: $50,000-$75,000
 
 **Date:** November 16, 2025
 **Part of:** 61-complaint series

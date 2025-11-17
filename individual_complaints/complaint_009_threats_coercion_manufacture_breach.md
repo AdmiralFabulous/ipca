@@ -20,7 +20,6 @@ Officer Sarah Perano used threats and coercion attempting to manufacture a prote
 - Protection order terms showing no breach occurring
 - Pattern of harassment to provoke violations
 
-## COMPENSATION: $40,000-$60,000
 
 **Date:** November 16, 2025
 **Part of:** 61-complaint series

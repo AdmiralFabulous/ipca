@@ -20,7 +20,6 @@ Arrest on **June 3, 2023** occurred on the **exact day** I was changing my Famil
 - Timeline proving exact date correlation
 - Pattern of police interference with parenting
 
-## COMPENSATION: $50,000-$75,000
 
 **Date:** November 16, 2025
 **Part of:** 61-complaint series

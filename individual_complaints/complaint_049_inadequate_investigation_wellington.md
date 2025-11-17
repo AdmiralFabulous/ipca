@@ -28,7 +28,6 @@ Police failed to properly investigate before filing 7 serious charges, leading t
 - Lack of investigation records
 - No corroborating evidence
 
-## COMPENSATION: $50,000-$75,000
 
 **Date:** November 16, 2025
 **Part of:** 61-complaint series

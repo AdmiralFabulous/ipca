@@ -21,7 +21,6 @@ Officer Sarah Perano targeted my company "199 Proverbs" (reference to Proverbs 1
 - Officer's targeting of religious expression
 - Pattern of harassment related to faith
 
-## COMPENSATION: $40,000-$60,000
 
 **Date:** November 16, 2025
 **Part of:** 61-complaint series

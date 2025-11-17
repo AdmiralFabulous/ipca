@@ -22,7 +22,6 @@ Christchurch Police deleted my formal blackmail complaint from their system with
 
 ## REQUESTED: Restore complaint, conduct investigation
 
-## COMPENSATION: $30,000-$50,000
 
 **Date:** November 16, 2025
 **Part of:** 61-complaint series

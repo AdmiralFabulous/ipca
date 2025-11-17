@@ -21,7 +21,6 @@ When I threatened hunger strike to demand lawyer access, police/prison threatene
 - Hunger strike threat as last resort
 - Solitary confinement retaliation threat
 
-## COMPENSATION: $30,000-$50,000
 
 **Date:** November 16, 2025
 **Part of:** 61-complaint series

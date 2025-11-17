@@ -24,7 +24,6 @@ Officer Sarah Perano unlawfully seized my mobile phone on June 3, 2023, containi
 - Phone seizure records
 - Privileged communications on phone
 
-## COMPENSATION: $35,000-$55,000
 
 **Date:** November 16, 2025
 **Part of:** 61-complaint series

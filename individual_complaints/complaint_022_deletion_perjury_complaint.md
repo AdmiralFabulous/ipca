@@ -22,7 +22,6 @@ Christchurch Police deleted my formal complaint about China Ambler's perjury, in
 
 ## REQUESTED: Criminal charges for obstruction
 
-## COMPENSATION: $40,000-$60,000
 
 **Date:** November 16, 2025
 **Part of:** 61-complaint series

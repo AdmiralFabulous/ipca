@@ -29,7 +29,6 @@ Detective Bell's letter was designed to cause Immigration NZ to revoke my visa a
 - Immigration fraud allegation (false)
 - No mental health issues existed
 
-## COMPENSATION: $150,000-$250,000
 
 **Date:** November 16, 2025
 **Part of:** 61-complaint series

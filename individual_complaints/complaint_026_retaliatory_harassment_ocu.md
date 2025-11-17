@@ -23,7 +23,6 @@ Organised Crime Unit visited my home on February 8, 2025 - exactly **12 days** a
 
 ## REQUESTED: Criminal investigation for retaliation
 
-## COMPENSATION: $60,000-$100,000
 
 **Date:** November 16, 2025
 **Part of:** 61-complaint series

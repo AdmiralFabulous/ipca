@@ -24,7 +24,6 @@ Police being weaponized to retaliate against judicial accountability complaints,
 
 ## REQUESTED: Investigation of judiciary-police coordination
 
-## COMPENSATION: $75,000-$125,000
 
 **Date:** November 16, 2025
 **Part of:** 61-complaint series

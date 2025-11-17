@@ -23,7 +23,6 @@ This was a direct threat to violate my rights under NZBORA.
 - Possible body camera footage
 - Witness statements
 
-## COMPENSATION: $40,000-$60,000
 
 **Date:** November 16, 2025
 **Part of:** 61-complaint series

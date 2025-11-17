@@ -20,7 +20,6 @@ Officer Sarah Perano denied my requests for lawyer access during arrest and tran
 - Arrest/transport recordings
 - Officer notes showing denial
 
-## COMPENSATION: $30,000-$50,000
 
 **Date:** November 16, 2025
 **Part of:** 61-complaint series

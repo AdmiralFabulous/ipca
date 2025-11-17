@@ -20,7 +20,6 @@ Christchurch Police has never provided any reason for deleting my complaints, vi
 - Unable to challenge deletion
 - Violation of transparency requirements
 
-## COMPENSATION: $15,000-$30,000
 
 **Date:** November 16, 2025
 **Part of:** 61-complaint series

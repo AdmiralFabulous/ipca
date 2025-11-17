@@ -22,7 +22,6 @@ OCU presence at my home created false public perception that I am connected to o
 - Community perception damage
 - No legitimate justification
 
-## COMPENSATION: $30,000-$50,000
 
 **Date:** November 16, 2025
 **Part of:** 61-complaint series

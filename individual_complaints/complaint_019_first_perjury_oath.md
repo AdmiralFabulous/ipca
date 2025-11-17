@@ -22,7 +22,6 @@ Constable James Peck testified under oath that I said "I punched China in the fa
 
 ## REQUESTED: Criminal prosecution of Constable Peck
 
-## COMPENSATION: $75,000-$125,000
 
 **Date:** November 16, 2025
 **Part of:** 61-complaint series

@@ -33,7 +33,6 @@ All based on China's word alone:
 - 2-hour jury deliberation
 - Lawyer: "credibility comprehensively destroyed"
 
-## COMPENSATION: $75,000-$125,000
 
 **Date:** November 16, 2025
 **Part of:** 61-complaint series

@@ -22,7 +22,6 @@ Police publicly stopped me in front of security personnel at airport, causing em
 - Deliberate choice of high-visibility venue
 - Maximum embarrassment intent
 
-## COMPENSATION: $15,000-$30,000
 
 **Date:** November 16, 2025
 **Part of:** 61-complaint series

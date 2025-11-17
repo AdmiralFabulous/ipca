@@ -28,7 +28,6 @@ Detective Bell uncritically accepted China Ambler's allegations without verifica
 - Wellington acquittal (NOT GUILTY x7)
 - Christchurch acquittal (7-minute deliberation)
 
-## COMPENSATION: $50,000-$75,000
 
 **Date:** November 16, 2025
 **Part of:** 61-complaint series

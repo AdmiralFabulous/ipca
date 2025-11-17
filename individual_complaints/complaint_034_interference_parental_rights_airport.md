@@ -22,7 +22,6 @@ Police stopped me while traveling to court-ordered supervised contact with my so
 - NZBORA family relationship protection
 - Denial of parental rights
 
-## COMPENSATION: $25,000-$40,000
 
 **Date:** November 16, 2025
 **Part of:** 61-complaint series

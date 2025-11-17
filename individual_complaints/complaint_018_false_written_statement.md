@@ -23,7 +23,6 @@ Constable James Peck falsely claimed in official written statement that I "punch
 
 ## REQUESTED: Criminal prosecution of Constable Peck
 
-## COMPENSATION: $50,000-$100,000
 
 **Date:** November 16, 2025
 **Part of:** 61-complaint series

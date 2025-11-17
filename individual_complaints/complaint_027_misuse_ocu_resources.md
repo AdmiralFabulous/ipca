@@ -21,7 +21,6 @@ Organised Crime Unit - NZ's elite unit for gangs, trafficking, cartels - was dep
 - Legal correspondence context
 - Disproportionate response proving harassment intent
 
-## COMPENSATION: $40,000-$60,000
 
 **Date:** November 16, 2025
 **Part of:** 61-complaint series

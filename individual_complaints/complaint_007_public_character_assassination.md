@@ -24,7 +24,6 @@ Officer Sarah Perano shouted derogatory things about my character to my neighbor
 - Neighbor witness testimony
 - Pattern of harassment
 
-## COMPENSATION: $25,000-$50,000
 
 **Date:** November 16, 2025
 **Part of:** 61-complaint series

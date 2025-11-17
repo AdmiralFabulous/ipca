@@ -22,7 +22,6 @@ Judge Hambleton weaponized Section 11B Family Court Act to refer legitimate cour
 - Legitimate criticism context
 - Police acceptance of improper referral
 
-## COMPENSATION: $25,000-$40,000
 
 **Date:** November 16, 2025
 **Part of:** 61-complaint series

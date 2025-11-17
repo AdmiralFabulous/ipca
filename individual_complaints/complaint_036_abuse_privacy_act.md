@@ -23,7 +23,6 @@ Detective Bell misused Privacy Act Principle 11(e)(i) to justify disclosure of u
 - Admission no diagnosis existed
 - Improper disclosure purpose
 
-## COMPENSATION: $50,000-$75,000
 
 **Date:** November 16, 2025
 **Part of:** 61-complaint series

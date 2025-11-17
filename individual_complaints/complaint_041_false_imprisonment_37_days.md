@@ -36,15 +36,14 @@ During these 37 days:
 - Elliott's Sept 14, 2021 birth certificate
 - Bell's May 13, 2021 letter (during imprisonment)
 
-## LEGAL PRECEDENTS
+## LEGAL PRECEDENTS FOR COMPENSATION
 
-- David Dougherty: 3 years = $868,000 ($790/day)
-- Aaron Farmer: 2 years = $350,000 ($479/day)
+**Relevant NZ Cases:**
+- **David Dougherty:** Awarded $868,000 for 3 years false imprisonment ($790/day)
+- **Aaron Farmer:** Awarded $350,000 for 2 years false imprisonment ($479/day)
 - **This case:** 37 days BUT with concurrent torture, perjury, missed birth
 
-## COMPENSATION: $250,000-$500,000
-
-**Enhanced for:**
+**Aggravating Factors:**
 - Concurrent torture (abortion lie)
 - Based on proven perjury
 - Missing son's birth (irreplaceable)

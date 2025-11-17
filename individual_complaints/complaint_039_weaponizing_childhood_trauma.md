@@ -22,7 +22,6 @@ Detective Bell weaponized China Ambler's false claim that I was "sexually abused
 - Pure speculation from unreliable source
 - Designed to suggest "mental health issues"
 
-## COMPENSATION: $40,000-$60,000
 
 **Date:** November 16, 2025
 **Part of:** 61-complaint series

@@ -21,7 +21,6 @@ Systematic denial and delays of lawyer access while detained at Rimutaka Prison.
 - Rimutaka detention records
 - Pattern of systematic denial
 
-## COMPENSATION: $40,000-$60,000
 
 **Date:** November 16, 2025
 **Part of:** 61-complaint series

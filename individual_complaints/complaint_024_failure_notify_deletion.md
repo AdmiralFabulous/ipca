@@ -20,7 +20,6 @@ Christchurch Police never notified me that my complaints were deleted, violating
 - Discovery only through inquiry
 - Violation of victim rights
 
-## COMPENSATION: $20,000-$35,000
 
 **Date:** November 16, 2025
 **Part of:** 61-complaint series

@@ -112,11 +112,14 @@ This complaint is brought under:
 
 ---
 
-## COMPENSATION ESTIMATE
+## LEGAL PRECEDENTS FOR COMPENSATION
 
-**$500,000 - $1,000,000**
+**Relevant NZ Cases:**
+- **David Dougherty:** Awarded $868,000 for 3 years false imprisonment
+- This psychological torture is arguably more severe than physical imprisonment
+- Psychological harm is permanent and irreparable
 
-This is the highest individual compensation estimate because:
+**Severity Factors:**
 - **Most severe psychological torture possible** (believing child is dead)
 - **153 days of unnecessary grief**
 - **Missed Elliott's birth** - irreplaceable moment
@@ -125,11 +128,6 @@ This is the highest individual compensation estimate because:
 - **No legitimate law enforcement purpose**
 - **Purely cruel and punitive**
 - **Torture has no statute of limitations**
-
-Based on:
-- David Dougherty: $868,000 for 3 years false imprisonment
-- This torture is arguably more severe than physical imprisonment
-- Psychological harm is permanent and irreparable
 
 ---
 

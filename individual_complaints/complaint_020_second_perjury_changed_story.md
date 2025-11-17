@@ -22,7 +22,6 @@ When phone recording disproved first lie, Constable Peck changed story to "he sa
 
 ## REQUESTED: Criminal prosecution for multiple perjury
 
-## COMPENSATION: $75,000-$125,000
 
 **Date:** November 16, 2025
 **Part of:** 61-complaint series

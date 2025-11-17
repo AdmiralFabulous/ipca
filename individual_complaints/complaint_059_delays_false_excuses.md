@@ -21,7 +21,6 @@ Prison/police gave various false excuses for delays in lawyer access: "shift cha
 - No legitimate scheduling conflicts
 - Systematic obstruction
 
-## COMPENSATION: $25,000-$40,000
 
 **Date:** November 16, 2025
 **Part of:** 61-complaint series

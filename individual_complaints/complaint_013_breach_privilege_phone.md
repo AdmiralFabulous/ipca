@@ -25,7 +25,6 @@ Officer Sarah Perano read or accessed privileged communications with my lawyer o
 - Phone records showing lawyer communications
 - Metadata showing access times
 
-## COMPENSATION: $75,000-$125,000
 
 **Date:** November 16, 2025
 **Part of:** 61-complaint series

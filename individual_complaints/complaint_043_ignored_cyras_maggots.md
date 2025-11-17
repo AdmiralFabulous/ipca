@@ -19,7 +19,6 @@ Police ignored CYRAS report documenting maggots in Elliott's living environment.
 - CYRAS reports documenting maggots
 - Police inaction despite reports
 
-## COMPENSATION: $15,000-$25,000
 
 **Date:** November 16, 2025
 **Part of:** 61-complaint series

@@ -20,7 +20,6 @@ Officer Sarah Perano refused my request to communicate through my lawyer on Janu
 - Legal representation status
 - Pattern of denying counsel access
 
-## COMPENSATION: $30,000-$50,000
 
 **Date:** November 16, 2025
 **Part of:** 61-complaint series

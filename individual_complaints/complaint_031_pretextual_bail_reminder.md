@@ -21,7 +21,6 @@ Police stopped me at airport to "remind" me of bail conditions while I was in **
 - Security officer witness
 - No breach alleged or suspected
 
-## COMPENSATION: $20,000-$35,000
 
 **Date:** November 16, 2025
 **Part of:** 61-complaint series

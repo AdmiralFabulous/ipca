@@ -47,78 +47,78 @@ The original 8 comprehensive complaints that group multiple violations:
 ### TORTURE (Complaints 001-005)
 **2021 First Arrest - 5 violations**
 
-001. Denial of Right to Chosen Legal Counsel ($50k-$100k)
-002. Breach of Solicitor-Client Privilege ($75k-$150k)
-003. Physical Torture - DNA Extraction Threats ($100k-$200k)
-004. Psychological Torture - Light Manipulation ($100k-$200k)
-005. **Psychological Torture - "The Abortion Lie" (153 days) ($500k-$1M)**
+001. Denial of Right to Chosen Legal Counsel
+002. Breach of Solicitor-Client Privilege
+003. Physical Torture - DNA Extraction Threats
+004. Psychological Torture - Light Manipulation
+005. **Psychological Torture - "The Abortion Lie" (153 days)**
 
 ### OFFICER SARAH PERANO (Complaints 006-017)
 **12 violations spanning 2022-2023**
 
 **January 10, 2022:**
-006. Attempted Forced Entry (audio 5:37) ($50k-$75k)
-007. Public Character Assassination ($25k-$50k)
-008. Refusal Communication Through Counsel ($30k-$50k)
-009. Threats to Manufacture Breach ($40k-$60k)
-010. Witness List Violation ($20k-$40k)
-011. Agent Provocateur Conduct ($35k-$55k)
+006. Attempted Forced Entry (audio 5:37)
+007. Public Character Assassination
+008. Refusal Communication Through Counsel
+009. Threats to Manufacture Breach
+010. Witness List Violation
+011. Agent Provocateur Conduct
 
 **June 3, 2023:**
-012. Threat to Unlawfully Enter ($40k-$60k)
-013. Breach Privilege - Phone ($75k-$125k)
-014. Denial Counsel During Arrest ($30k-$50k)
-015. Strategic Arrest Timing ($50k-$75k)
-016. Religious Discrimination ($40k-$60k)
-017. Unlawful Phone Seizure ($35k-$55k)
+012. Threat to Unlawfully Enter
+013. Breach Privilege - Phone
+014. Denial Counsel During Arrest
+015. Strategic Arrest Timing
+016. Religious Discrimination
+017. Unlawful Phone Seizure
 
 ### CONSTABLE JAMES PECK PERJURY (Complaints 018-021)
 **4 instances of proven perjury**
 
-018. False Written Statement ($50k-$100k)
-019. First Perjury Under Oath ($75k-$125k)
-020. Second Perjury - Changed Story ($75k-$125k)
-021. Maintained Lies Despite Evidence ($50k-$100k)
+018. False Written Statement
+019. First Perjury Under Oath
+020. Second Perjury - Changed Story
+021. Maintained Lies Despite Evidence
 
 ### CHRISTCHURCH POLICE (Complaints 022-025)
 **Destruction of complaints**
 
-022. Deletion of Perjury Complaint ($40k-$60k)
-023. Deletion of Blackmail Complaint ($30k-$50k)
-024. Failure to Notify ($20k-$35k)
-025. Failure to Provide Reasons ($15k-$30k)
+022. Deletion of Perjury Complaint
+023. Deletion of Blackmail Complaint
+024. Failure to Notify
+025. Failure to Provide Reasons
 
 ### ORGANISED CRIME UNIT (Complaints 026-030)
 **Retaliation and intimidation**
 
-026. Retaliatory Harassment - 12 days after judicial complaint ($60k-$100k)
-027. Misuse of OCU Resources - for "emoji" ($40k-$60k)
-028. Intimidation of Pregnant Wife - 8 months pregnant ($50k-$80k)
-029. False Organized Crime Implication ($30k-$50k)
-030. Weaponization to Protect Judges ($75k-$125k)
+026. Retaliatory Harassment - 12 days after judicial complaint
+027. Misuse of OCU Resources - for "emoji"
+028. Intimidation of Pregnant Wife - 8 months pregnant
+029. False Organized Crime Implication
+030. Weaponization to Protect Judges
 
 ### AIRPORT HARASSMENT (Complaints 031-034)
 **Travel to see son disrupted**
 
-031. Pretextual Bail "Reminder" ($20k-$35k)
-032. Public Humiliation at Airport ($15k-$30k)
-033. Targeted Harassment Pattern ($30k-$50k)
-034. Interference with Parental Rights ($25k-$40k)
+031. Pretextual Bail "Reminder"
+032. Public Humiliation at Airport
+033. Targeted Harassment Pattern
+034. Interference with Parental Rights
 
 ### DETECTIVE JOCELYN BELL (Complaints 035-040)
 **Immigration sabotage**
 
-035. **False Info to Immigration NZ** - "may not yet have been diagnosed" ($100k-$150k)
-036. Abuse of Privacy Act Principles ($50k-$75k)
-037. Violation of Presumption of Innocence ($75k-$100k)
-038. **Attempted Deportation** ($150k-$250k)
-039. Weaponizing Childhood Trauma ($40k-$60k)
-040. Collusion with Malicious Complainant ($50k-$75k)
+035. **False Info to Immigration NZ** - "may not yet have been diagnosed"
+036. Abuse of Privacy Act Principles
+037. Violation of Presumption of Innocence
+038. **Attempted Deportation**
+039. Weaponizing Childhood Trauma
+040. Collusion with Malicious Complainant
 
 ### FALSE IMPRISONMENT (Complaint 041)
 **37 days on proven false charges**
 
-041. **False Imprisonment on Remand - 37 Days** ($250k-$500k)
+041. **False Imprisonment on Remand - 37 Days**
     - Concurrent with torture (abortion lie)
     - Missed Elliott's birth (Sept 14, 2021)
     - Based on Peck's proven perjury
@@ -127,60 +127,49 @@ The original 8 comprehensive complaints that group multiple violations:
 ### CHILD WELFARE FAILURES (Complaints 042-047)
 **Systematic protection of false accuser**
 
-042. Ignored CYRAS - "Feral" Home ($15k-$25k)
-043. Ignored CYRAS - Maggots ($15k-$25k)
-044. Ignored CYRAS - Neglect ($20k-$35k)
-045. Ignored City Mission Concerns ($15k-$25k)
-046. Ignored Preschool Concerns ($15k-$25k)
-047. Pattern Protecting False Accuser ($50k-$75k)
+042. Ignored CYRAS - "Feral" Home
+043. Ignored CYRAS - Maggots
+044. Ignored CYRAS - Neglect
+045. Ignored City Mission Concerns
+046. Ignored Preschool Concerns
+047. Pattern Protecting False Accuser
 
 ### MALICIOUS PROSECUTION - WELLINGTON (Complaints 048-051)
 **7 charges - NOT GUILTY on all**
 
-048. Filing Uncorroborated Charges ($75k-$125k)
-049. Inadequate Investigation ($50k-$75k)
-050. Failure Investigate China's Credibility ($50k-$75k)
-051. Failure Investigate Motive to Fabricate ($40k-$60k)
+048. Filing Uncorroborated Charges
+049. Inadequate Investigation
+050. Failure Investigate China's Credibility
+051. Failure Investigate Motive to Fabricate
 
 ### MALICIOUS PROSECUTION - CHRISTCHURCH (Complaints 052-054)
 **2 charges - NOT GUILTY (7-minute deliberation)**
 
-052. Baseless PO Breach Charges ($50k-$75k)
-053. Prosecution Despite Admission ($40k-$60k)
-054. Continuation After 7-Minute Acquittal ($30k-$50k)
+052. Baseless PO Breach Charges
+053. Prosecution Despite Admission
+054. Continuation After 7-Minute Acquittal
 
 ### JUDICIAL REFERRAL WEAPONIZATION (Complaints 055-057)
 **Police used to punish judicial criticism**
 
-055. Sept 6, 2024 Police Referral ($30k-$50k)
-056. Misuse of Section 11B ($25k-$40k)
-057. Retaliation for Criticizing Delays ($25k-$40k)
+055. Sept 6, 2024 Police Referral
+056. Misuse of Section 11B
+057. Retaliation for Criticizing Delays
 
 ### RIMUTAKA PRISON (Complaints 058-060)
 **Denial of lawyer access**
 
-058. Systematic Denial Lawyer Access ($40k-$60k)
-059. Delays with False Excuses ($25k-$40k)
-060. Solitary Threat for Demanding Lawyer ($30k-$50k)
+058. Systematic Denial Lawyer Access
+059. Delays with False Excuses
+060. Solitary Threat for Demanding Lawyer
 
 ### EVIDENCE SUPPRESSION (Complaint 061)
 **Withholding exculpatory evidence**
 
-061. **Withheld China's Notebook** - "I need to stop lying" ($75k-$125k)
+061. **Withheld China's Notebook** - "I need to stop lying"
 
 ---
 
-## TOTAL COMPENSATION ESTIMATE
-
-**$3,000,000 - $6,000,000** across all 61 complaints
-
-**Highest Value Complaints:**
-- #005: Abortion lie torture ($500k-$1M)
-- #041: False imprisonment 37 days ($250k-$500k)
-- #038: Attempted deportation ($150k-$250k)
-- #035: False info to Immigration ($100k-$150k)
-
----
 
 ## FILING STRATEGY
 
@@ -336,6 +325,5 @@ You have been silenced for too long. These complaints are your voice.
 **Individual Complaints:** 61 separate, ready-to-file documents
 **Total Documentation:** 200+ pages
 **Evidence:** Extensive audio, documentary, and testimonial proof
-**Total Compensation Sought:** $3M-$6M
 
 ---

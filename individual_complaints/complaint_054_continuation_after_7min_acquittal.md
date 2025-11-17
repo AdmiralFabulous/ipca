@@ -26,7 +26,6 @@ Jury deliberated only **7 minutes** before NOT GUILTY verdict, proving charges w
 - NOT GUILTY verdict
 - Remarkably short deliberation proving obvious falsity
 
-## COMPENSATION: $30,000-$50,000
 
 **Date:** November 16, 2025
 **Part of:** 61-complaint series

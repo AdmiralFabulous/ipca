@@ -35,7 +35,6 @@ Systematic pattern of protecting China Ambler while targeting me, despite multip
 - **Two jury acquittals** proving allegations false
 - Yet child welfare still ignored
 
-## COMPENSATION: $50,000-$75,000
 
 **Date:** November 16, 2025
 **Part of:** 61-complaint series

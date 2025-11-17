@@ -85,17 +85,6 @@ This complaint is brought under:
 
 ---
 
-## COMPENSATION ESTIMATE
-
-**$50,000 - $100,000**
-
-Based on:
-- Fundamental rights violation
-- Impact on entire criminal proceeding
-- Psychological harm from denial of rights
-- Subsequent acquittal proving false prosecution
-
----
 
 ## URGENCY
 

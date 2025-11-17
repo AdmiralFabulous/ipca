@@ -29,7 +29,6 @@ This **proves consciousness of fabrication** and should have been disclosed to d
 
 ## REQUESTED: Criminal prosecution for evidence suppression
 
-## COMPENSATION: $75,000-$125,000
 
 **Date:** November 16, 2025
 **Part of:** 61-complaint series

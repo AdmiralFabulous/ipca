@@ -29,7 +29,6 @@ Translation: No evidence exists. Pure speculation. Yet she still wrote to Immigr
 
 ## REQUESTED: Criminal prosecution of Detective Bell
 
-## COMPENSATION: $100,000-$150,000
 
 **Date:** November 16, 2025
 **Part of:** 61-complaint series

@@ -26,7 +26,6 @@ Judge Hambleton referred me to police on September 6, 2024 for filing court memo
 - No criminal conduct in memorandum
 - Legitimate criticism of delays
 
-## COMPENSATION: $30,000-$50,000
 
 **Date:** November 16, 2025
 **Part of:** 61-complaint series

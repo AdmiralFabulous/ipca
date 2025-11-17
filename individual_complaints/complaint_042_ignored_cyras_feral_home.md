@@ -20,7 +20,6 @@ Police ignored CYRAS report describing Elliott's home as "feral" with unsafe con
 - "Feral" home description
 - Police refusal to act
 
-## COMPENSATION: $15,000-$25,000
 
 **Date:** November 16, 2025
 **Part of:** 61-complaint series

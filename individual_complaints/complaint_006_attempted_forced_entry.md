@@ -24,7 +24,6 @@ Officer Sarah Perano attempted to force entry into my home without a warrant on 
 - Timestamp: 5:37
 - Physical evidence of door handle manipulation
 
-## COMPENSATION: $50,000-$75,000
 
 **Date:** November 16, 2025
 **Part of:** 61-complaint series

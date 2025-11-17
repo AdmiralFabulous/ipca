@@ -94,18 +94,6 @@ This complaint is brought under:
 
 ---
 
-## COMPENSATION ESTIMATE
-
-**$100,000 - $200,000**
-
-Based on:
-- UN Convention Against Torture violation
-- Physical and psychological torture
-- Violation of bodily autonomy
-- Lasting psychological trauma
-- Inadmissible evidence obtained through torture
-
----
 
 ## URGENCY
 

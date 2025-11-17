@@ -29,7 +29,6 @@ Airport harassment is part of systematic targeting pattern spanning 2021-2025.
 - No legitimate purposes
 - Coordination evident
 
-## COMPENSATION: $30,000-$50,000
 
 **Date:** November 16, 2025
 **Part of:** 61-complaint series

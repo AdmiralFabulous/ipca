@@ -22,7 +22,6 @@ Even after BOTH recordings disproved his claims, Constable Peck maintained false
 
 ## REQUESTED: Maximum criminal prosecution
 
-## COMPENSATION: $50,000-$100,000
 
 **Date:** November 16, 2025
 **Part of:** 61-complaint series

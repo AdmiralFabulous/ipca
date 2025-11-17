@@ -22,7 +22,6 @@ Accepting referral and treating legitimate criticism as police matter.
 - Denial of access to justice
 - NZBORA Section 14 (freedom of expression) violation
 
-## COMPENSATION: $25,000-$40,000
 
 **Date:** November 16, 2025
 **Part of:** 61-complaint series

@@ -87,17 +87,6 @@ This complaint is brought under:
 
 ---
 
-## COMPENSATION ESTIMATE
-
-**$75,000 - $150,000**
-
-Based on:
-- Violation of most sacred legal protection
-- Compromise of defense strategy
-- Chilling effect on legal representation
-- Fundamental to fair trial rights
-
----
 
 ## URGENCY
 

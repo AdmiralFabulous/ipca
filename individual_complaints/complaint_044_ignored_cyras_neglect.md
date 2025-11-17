@@ -20,7 +20,6 @@ Police ignored CYRAS reports documenting child neglect concerns.
 - Documented neglect concerns
 - Police refusal to investigate
 
-## COMPENSATION: $20,000-$35,000
 
 **Date:** November 16, 2025
 **Part of:** 61-complaint series

@@ -27,7 +27,6 @@ Detective Bell contacted Immigration while criminal charges were **pending** (be
 - Complete acquittals proving innocence
 - No conviction ever obtained
 
-## COMPENSATION: $75,000-$100,000
 
 **Date:** November 16, 2025
 **Part of:** 61-complaint series

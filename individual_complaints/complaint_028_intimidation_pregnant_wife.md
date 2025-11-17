@@ -22,7 +22,6 @@ OCU visited when my wife was **8 months pregnant**, causing extreme psychologica
 - Medical documentation of stress
 - Deliberate timing for maximum impact
 
-## COMPENSATION: $50,000-$80,000
 
 **Date:** November 16, 2025
 **Part of:** 61-complaint series

@@ -20,7 +20,6 @@ Police ignored concerns raised by preschool staff about Elliott's welfare and ho
 - Professional educator concerns
 - Police systematic inaction
 
-## COMPENSATION: $15,000-$25,000
 
 **Date:** November 16, 2025
 **Part of:** 61-complaint series

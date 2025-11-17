@@ -98,18 +98,6 @@ This complaint is brought under:
 
 ---
 
-## COMPENSATION ESTIMATE
-
-**$100,000 - $200,000**
-
-Based on:
-- Recognized torture technique
-- Psychological trauma
-- Sleep deprivation impacts
-- Violation of international standards
-- Lasting mental health effects
-
----
 
 ## URGENCY
 

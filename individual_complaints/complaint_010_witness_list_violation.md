@@ -20,7 +20,6 @@ Officer Sarah Perano **laughed** when told she was on my witness list, demonstra
 - Witness list documentation
 - Subsequent intimidation pattern
 
-## COMPENSATION: $20,000-$40,000
 
 **Date:** November 16, 2025
 **Part of:** 61-complaint series

@@ -190,25 +190,6 @@
 
 ---
 
-## COMPENSATION ESTIMATES BY COMPLAINT
-
-**High Value (Over $100,000 each):**
-- Complaint 005: $500,000-$1,000,000 (153-day psychological torture)
-- Complaint 041: $250,000-$500,000 (37 days false imprisonment + concurrent torture)
-- Complaints 035-040: $200,000-$400,000 (attempted deportation)
-- Complaints 003-004: $100,000-$200,000 each (physical/psychological torture)
-
-**Medium Value ($50,000-$100,000 each):**
-- Complaints 018-021: $200,000-$300,000 total (perjury causing imprisonment)
-- Complaints 006-017: $300,000-$500,000 total (Sarah Perano 12 violations)
-- Complaints 026-030: $150,000-$250,000 (OCU intimidation)
-
-**Lower Value ($10,000-$50,000 each):**
-- Complaints 022-025, 031-034, 042-061: $10,000-$50,000 each
-
-**Total Estimated Compensation: $3,000,000 - $6,000,000**
-
----
 
 ## NEXT STEPS
 
